@@ -1,4 +1,4 @@
-##age distribution
+##hours worked
 
 #load libs
 library(ggplot2);library(ggthemes);library(plyr);library(reshape);library(grid);library(scales);library(RColorBrewer)
